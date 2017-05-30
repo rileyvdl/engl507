@@ -1,4 +1,4 @@
-what's the data about your dada?
+what's the data about your data?
 * see dublin core
 * see yaml (for markdown)
 
